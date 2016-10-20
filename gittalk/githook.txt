@@ -1,0 +1,3 @@
+#### Git Talk (begin)
+exec 'gittalk --trigger'
+#### Git Talk (end)
